@@ -69,6 +69,7 @@
 
 
 **Grant reviewed**
+
 Reviewed grant for French Muscular Dystrophy Association AFM (2012)
 Study of nonsense-mediated mRNA decay (NMD) inhibition using small molecules as molecular probes 
 
